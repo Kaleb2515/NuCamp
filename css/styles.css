@@ -15,7 +15,7 @@ header h2 {
 }
 
 footer {
-    background-image: linear-gradient(#CEC8FF, white);
+    background-image: linear-gradient (#CEC8FF, white);
     padding: 20px 0;
 }
 
@@ -52,4 +52,5 @@ a, a:hover {
 
 .carousel {
     border: solid #5637DD;
+
 }
